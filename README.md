@@ -1,9 +1,9 @@
-#Mini Project Instructions
+Retake Project Instructions
 
 Project Overview:
 The project involves creating a runnable JavaScript file that establishes a connection to a MongoDB database and executes user-provided queries in a Domain Specific Language (DSL). The DSL examples, "example1.mydsl1" and "example2.mydsl1," are crucial for the project and should be placed in the directory at the relative path of  "/org.xtext.example.mydsl1/resources" The generated node JS synthex can be checked with nodeJS IDE.
 
-#Requirements:
+Requirements:
 
 Software Dependencies:
 
